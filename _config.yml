@@ -39,7 +39,7 @@ include: ["_pages"]
 logo: "/assets/logo/88x88.svg"
 masthead_title: "The QRL Contributors"
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
