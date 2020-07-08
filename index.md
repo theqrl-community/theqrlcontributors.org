@@ -9,8 +9,6 @@ header:
   actions:
     - label: "Be part of the quantum resistance"
       url: "/get-involved/"
-    - label: "Learn more"
-      url: "/learn-more/"
   caption: "Photo credit: Contributor **Smith**"
 excerpt: "Contribution is the backbone of any opensource project like The QRL, and is emergent from the community that surrounds it."
 ---
