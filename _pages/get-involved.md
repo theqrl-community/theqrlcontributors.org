@@ -19,7 +19,6 @@ The activities and behaviour demonstrated as a community member will influence w
 2. **The QRL Community Discord.** This is where most of our community gathers which anyone is free to participate in. Our main discord server can be [found here](https://discord.gg/jBT6BEp).
 2. **Trello.** For those unfamiliar with Trello, it's a web-based kanban-style list-making application which is geared towards more formally tracking todo items. While the community doesn't have *full* access, it's possible to get in and vote on the things you'd like to see the most. This helps guide priorities for the project. Our trello boards can be [found here](https://trello.com/theqrlcontributors/home) 
 
-
 ## Step 2. Request to become a contributor (or get invited)
 
 So, you've been part of The QRL Community, watched The QRL Contributors in action and see a place you feel you can help contribute! This is great to hear! 
@@ -32,4 +31,4 @@ There's two ways to becoming a contributor:
 
 ## 3. Once you're accepted
 
-You'll want to read the [onboarding](/onboarding/) document.
+You'll want to read our [onboarding guide](/onboarding/).
