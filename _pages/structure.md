@@ -13,19 +13,22 @@ header:
 
 # Overview
 
-The QRL Contributors structure is comprised of three main concepts.
+The QRL Contributors structure is comprised of one core value:
 
-- Open: The efforts of The QRL Contributors is done publicly through the platforms [Trello](https://trello.com/theqrlcontributors), [Discord](https://discord.gg/uztY3Kj), and [GitHub](https://github.com/theqrl-community). In each area, the general community has a capacity to participate, but is mostly only able to observe.
+- Transparency: The efforts of The QRL Contributors is done publicly through the platforms [Trello](https://trello.com/theqrlcontributors), [Discord](https://discord.gg/uztY3Kj), and [GitHub](https://github.com/theqrl-community). In each area, the general community has a capacity to participate, but is mostly only able to observe.
+
+And two key organisational components:
+
 - Roles: These can be seen as skillsets and are used to indicate an area of expertise a person has.
-- Working Groups: Are sub-projects of the QRL ecosystem. Some of these, like advocacy, are more permanent, but others might be temporary in nature to cover one-time project, such as an event. They are comprised of people with multiple roles.
+- Working Groups: Are committees of people to achieve a unified goal. Some of these, like advocacy, are more permanent, but others might be temporary in nature to cover one-time project, such as an event. They are comprised of people with multiple roles.
 
 Roles and working groups are used much as possible through each of our platforms. This makes the overall system easier to follow once a person understands the various roles and working groups. For example, we have a channel, [#wg-advocacy](https://discord.gg/ZSSFhma), which corresponds to the trello board, [wg-advocacy](https://trello.com/b/xwpVCMHv/wg-advocacy).
 
 # Roles
 
-Roles allow us to break users into sub-groups based on the users strengths and capabilities. A role is self assigned by the user for areas they feel comfortable working in, are interested in getting into, or otherwise have talent in.
+Roles allows contributors to signal, identify and call upone eachothers strengths and capabilities. A role can be self-assigned by any contributor for areas they feel comfortable working in, are interested in getting into, or otherwise have talent in.
 
-For the workflow, a role can be flagged on a platform with @{ROLE}. For instance, if someone is working on a new website, there will be multiple roles that would be required to complete. For the backend, you might need a @developer, where as for design elements you'll need a @designer. The idea is to call on the strengths of each other.
+For the workflow, a role can be flagged on a platform with @{ROLE}. For instance, if someone is working on a new website, there will be multiple roles that would be required to complete. For the backend, someone might need a **@developer**, where as for design elements they might need a **@designer**. The idea is to call on the strengths of each other.
 
 - Designer
 - Developer
@@ -33,11 +36,22 @@ For the workflow, a role can be flagged on a platform with @{ROLE}. For instance
 - Advocate
 - Moderator
 
-# Working Groups
+# Working Groups (WG's)
 
-Working groups are sub-projects to the QRL ecosystem. They are often comprised of people of many different roles working to achieve a unified goal.
+Contributors can choose to be part of one or more working groups (WG). 
 
-Most working groups are permanent in nature, such as the ones listed here, but can often break off into individual working groups as the needs arise.
+These can be seen as committees of people with various skillsets which come together to achieve specified goals. Often a working group is similar to a skillset (ie. @wg-advocacy), but not always (ie. @wg-documentation, @wg-website).
+
+- [#wg-advocacy](#advocacy)
+- [#wg-brand](#brand)
+- [#wg-community](#community)
+- [#wg-digitalmedia](#digital-media)
+- [#wg-documentation](#documentation)
+- [#wg-education](#education)
+- [#wg-massmedia](#mass-media)
+- [#wg-website](#website)
+
+It's possible to create working groups as need be to achieve a specified goal or set of goals.
 
 ## Advocacy
 

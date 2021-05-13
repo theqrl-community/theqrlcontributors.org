@@ -7,19 +7,17 @@ toc_label: "Onboarding"
 toc_icon: "cog"
 ---
 
-# Welcome!
+# Welcome to the QRL Contributors!
 
-We're happy to have you on board! 
-
-## 1. Understand what it means to be a QRL Contributor!
+## 1. Understand what it means to be a QRL Contributor
 
 By becoming a QRL Contributor, you're also by extension, a representative to the QRL and its overall brand to the world. The actions you've taken in the past, and the ones you take in the future, will impact people's impressions of QRL.
 
 Understandably, this comes with a lot of responsibility! If you're more of a back-of-house type of person (developers and coders) - this wont concern you as much, but it's still important to take note of.
 
-It's important to be familiar with our [code-of-conduct](/code-of-conduct).
+With that in mind, it's important to be familiar with our [code-of-conduct](/code-of-conduct).
 
-As a QRL Contributors group you will also have a larger degree of access to information that is meant to be kept private from the public. It's important to keep it that way.
+Additionally, As a QRL Contributor you will also have a larger degree of access to information that is meant to be kept private from the public. 
 
 ## 2. Understand The QRL Contributors structure 
 
@@ -29,7 +27,7 @@ Once you understand this, ensure that you've been assigned a role and are part o
 
 ## 3. Double check that you're setup and understand each platform we use
 
-We utilize other 3rd party services to help in our productivity, and align our members on similar platforms. Please take some time and sign up to the various systems we use. Some of these require a moderator or core contributor to sign you up for an account or authorize your user.
+We use several 3rd party services to help us remain productive as well as to align our members on similar platforms. Please take some time and sign up to the various systems we use. Some of these require a moderator or core contributor to sign you up for an account or authorize your user.
 
 Try to pick a username that's the same or similar throughout these platforms.
 
@@ -37,7 +35,7 @@ Try to pick a username that's the same or similar throughout these platforms.
 
 Kanban type project tracking and task assignment. Use this to place active tasks and information for the working groups and projects you are working. 
 
-You can view all the trello boards here: <https://trello.com/theqrlcontributors>
+You can view all the Trello boards here: <https://trello.com/theqrlcontributors>
 
 ### Nextcloud
 
