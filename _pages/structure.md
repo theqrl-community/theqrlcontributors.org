@@ -15,7 +15,7 @@ header:
 
 The QRL Contributors structure is comprised of one core value:
 
-- Transparency: The efforts of The QRL Contributors is done publicly through the platforms [Trello](https://trello.com/theqrlcontributors), [Discord](https://discord.gg/uztY3Kj), and [GitHub](https://github.com/theqrl-community). In each area, the general community has a capacity to participate, but is mostly only able to observe.
+- Transparency: The efforts of The QRL Contributors is done publicly through the platforms [Trello](https://trello.com/theqrlcontributors), [Discord](https://discord.gg/uztY3Kj), and [GitHub](https://github.com/theqrl-community).
 
 And two key organisational components:
 
@@ -26,7 +26,7 @@ Roles and working groups are used much as possible through each of our platforms
 
 # Roles
 
-Roles allows contributors to signal, identify and call upone eachothers strengths and capabilities. A role can be self-assigned by any contributor for areas they feel comfortable working in, are interested in getting into, or otherwise have talent in.
+Roles allows contributors to signal, identify and call upon each others strengths and capabilities. A role can be self-assigned by any contributor for areas they feel comfortable working in, are interested in getting into, or otherwise have talent in.
 
 For the workflow, a role can be flagged on a platform with @{ROLE}. For instance, if someone is working on a new website, there will be multiple roles that would be required to complete. For the backend, someone might need a **@developer**, where as for design elements they might need a **@designer**. The idea is to call on the strengths of each other.
 
