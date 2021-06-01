@@ -15,11 +15,11 @@ header:
 
 The QRL contributors and its surrounding communities are made up of those from all over the world working together to participate in positive, forward-thinking, good faith discussions. This is in-turn observed by a wide range of individuals including younger demographics. Disagreements among such a diverse community are bound to happen, and it's important that we try to understand why so that we can resolve differing views constructively - remember that we are different. All discussions should strive to be initiated and maintained in a considerate and respectful manner.
 
-## Community Rules
+## Community code-of-conduct
 
 ### Do not spam, shill, or otherwise use this area to promote your, or someone else’s, product/platform. 
 
-Open dialog is encouraged, but using this as an opportunity to promote/shill a platform won’t be tolerated. For QRL-related content and updates (exchanges, pools, products built on the QRL platform), there are avenues for that. This extends to referral links or the use of URL shortening services.
+Open dialog, including about other projects, is allowed, but using the QRL community as an opportunity to solely promote/shill a platform won’t be tolerated. For QRL-related content and updates (exchanges, pools, products built on the QRL platform), there are avenues for that. This extends to referral links or the use of URL shortening services.
 
 ### Do not organize, participate in, or encourage harassment towards anyone. 
 
