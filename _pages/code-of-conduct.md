@@ -19,15 +19,13 @@ The QRL contributors and its surrounding communities are made up of those from a
 
 ### Do not spam, shill, or otherwise use this area to promote your, or someone else’s, product/platform. 
 
-Open dialog, including about other projects, is allowed, but using the QRL community as an opportunity to solely promote/shill a platform won’t be tolerated. For QRL-related content and updates (exchanges, pools, products built on the QRL platform), there are avenues for that. This extends to referral links or the use of URL shortening services.
+Open dialog, including about other projects, is allowed, but using the QRL community as an opportunity to solely promote/shill a platform, unless it's in exchange for QRL, won’t be tolerated. 
 
-### Do not organize, participate in, or encourage harassment towards anyone. 
+### Do not organize, participate in, or encourage harassment/harm towards anyone. 
 
-It’s okay to disagree, but continuous, repetitive, or severe negative comments may cross the line into harassment and will not be tolerated.
-    
-### Do not make threats of violence or threaten to harm others. 
+It’s okay to disagree, but continuous, repetitive, or severe negative comments may cross the line into harassment and will not be tolerated. Releasing people's personal information publicly (ie. doxing), is included in this, whether or not the person being doxed is a public figure.
 
-Indirect or otherwise, it’s not okay to attack and threaten harm other individuals for any reason. Doxxing, and posts that resemble doxxing is included in this, whether or not the person being doxxed is a public figure (witch-hunting). Death threats are subject to an immediate ban on all our platforms.
+Indirect or otherwise, it’s not okay to attack and threaten harm other to individuals for any reason. Death threats are subject to an immediate ban on all our platforms.
 
 ### Do not use vulgar language that’s not family friendly. 
 
@@ -35,12 +33,16 @@ This includes no profanity, bigotry, attacks, threats, vulgar or violent languag
 
 ### Do not incite or encourage illegal or market manipulation activities. 
 
-Promoting leaks, buying/selling drugs, tax evasion, pyramid schemes, or conspiring to perform a pump/dump
+Promoting leaks, buying/selling drugs, tax evasion, pyramid schemes, or conspiring to perform a pump/dump, along with anything laid out in the community platforms Terms of Service (ToS) isn't permitted.
 
 ### Do not partake in deceptive activities or actions. 
 
 Usernames which are deceptive (ie. coo, ceo, founder…), or advertising in nature (url’s, etc).
 
-We will try to resolve moderation issues in good faith by escalating, such as by giving a warning or kicking first - however, it’s up to a moderator’s discretion.
+Referral links and the use of URL shortening services is a form of deceptive activity as it obfuscates the child url.
 
-Actions taken are open to an appeal process, which can be started through emailing [support@theqrl.org](mailto:support@theqrl.org)
+---
+
+The QRL moderation team is committed to resolve moderation issues in good faith by education and escalating, such as by giving a warning or kicking first - however, due to the wide variety of situations, the resolution enacted is up moderator’s discretion.
+
+However, actions taken are open to an appeal process, which can be started through emailing [support@theqrlcontributors.org](mailto:support@theqrlcontributors.org)
